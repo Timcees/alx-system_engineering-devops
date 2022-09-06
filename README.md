@@ -1,1 +1,1 @@
-Current working directory
+A script that print the current working directory
