@@ -1,1 +1,1 @@
-script for the absolute working directory
+current working directory
