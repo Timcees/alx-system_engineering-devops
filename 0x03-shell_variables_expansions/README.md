@@ -1,1 +1,1 @@
-directory the shell looks into
+a script that counts the number of directories
