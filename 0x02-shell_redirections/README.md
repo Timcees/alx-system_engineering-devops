@@ -1,1 +1,1 @@
-extension in the current directory and all its sub-directories
+As a form of constrained writing
