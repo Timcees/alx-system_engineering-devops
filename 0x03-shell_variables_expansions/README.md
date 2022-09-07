@@ -1,1 +1,1 @@
-A script to create new local varible
+a script that prints the result of the addition
