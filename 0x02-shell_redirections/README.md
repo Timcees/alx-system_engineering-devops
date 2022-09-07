@@ -1,1 +1,1 @@
-a shell script that creates a file named
+a script that writes into the file
