@@ -1,1 +1,1 @@
-As a form of constrained writing
+script that parses web servers logs
