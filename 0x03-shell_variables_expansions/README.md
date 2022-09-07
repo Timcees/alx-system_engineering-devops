@@ -1,1 +1,1 @@
-a script that creates a new local variable
+a script that converts a number from base
