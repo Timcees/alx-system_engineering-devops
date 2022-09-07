@@ -1,1 +1,1 @@
-where user is the current Linux user
+directory the shell looks into
