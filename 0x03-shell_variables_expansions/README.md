@@ -1,1 +1,1 @@
-There are 10 types of people in the world
+ a script that prints all possible combinations of two letters
