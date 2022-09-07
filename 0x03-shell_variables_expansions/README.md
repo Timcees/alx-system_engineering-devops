@@ -1,1 +1,1 @@
-a script that creates a new local variable
+A script to create new local varible
