@@ -1,1 +1,1 @@
-Replace all characters
+script that removes all letters c
